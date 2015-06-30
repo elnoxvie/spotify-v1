@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="default_list_image_width">200</integer>
+    <integer name="default_cover_image_width">640</integer>
+    <string name="default_spotify_market">SG</string>
+    <string name="default_shared_transition_name">image cover</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:key="clear_history" android:title="@string/clear_search_history"/>
+
+    <ListPreference android:key="spotify_market"
+                    android:title="@string/spotify_market"
+                    android:defaultValue="@string/default_spotify_market"
+                    android:entries="@array/spotify_market"
+                    android:entryValues="@array/spotify_market"/>
+
+</PreferenceScreen>
